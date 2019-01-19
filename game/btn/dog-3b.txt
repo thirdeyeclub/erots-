@@ -25,7 +25,7 @@
                         and you can do anything you want
                 </p>
                 <div class="options">
-                  <a href="dog-3b" class="btn">give birth</a>
+                  <a href="" class="btn">give birth</a>
                 </div>
               </div>
               
